@@ -83,6 +83,10 @@ pip install -r requirements.txt
 Official Qiskit documentation:
 https://quantum.cloud.ibm.com/docs
 
+About the Exam:
+https://www.ibm.com/training/certification/ibm-certified-quantum-computation-using-qiskit-v2x-developer-associate-C9008400
+
+
 ---
 
 ## 🧠 Final Phase
